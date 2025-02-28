@@ -1,6 +1,6 @@
-# TurboTiger Typing
+# TurboTiger Typing🐅
 
-**TurboTiger Typing** is an engaging web-based application designed to help users enhance their typing speed and accuracy through interactive exercises and real-time feedback.
+**TurboTiger Typing🐅** is an engaging web-based application designed to help users enhance their typing speed and accuracy through interactive exercises and real-time feedback.
 
 ## Features
 
@@ -48,10 +48,6 @@ We welcome contributions to enhance TurboTiger Typing. To contribute:
    git push origin feature/your-feature-name
    ```
 6. **Submit a Pull Request**: Navigate to the original repository and click on 'New Pull Request'.
-
-## Acknowledgments
-
-Special thanks to all contributors and users who have supported the development of TurboTiger Typing.
 
 ---
 
